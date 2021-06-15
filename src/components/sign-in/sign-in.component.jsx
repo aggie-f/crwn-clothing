@@ -50,7 +50,7 @@ class SignIn extends React.Component {
             label="password"
             required
           />
-          <button type="submit"> Sign in </button>
+          <CustomButton type="submit"> Sign in </CustomButton>
         </form>
       </div>
     );
